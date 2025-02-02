@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 📊 Gerador de Gráficos Online (Plot.R)
 
-## Getting Started
+Este é um site interativo para **plotagem de gráficos** de vários estilos, desenvolvido com **Next.js**. O site permite que você **importe planilhas** e gere gráficos automaticamente, facilitando a visualização de dados de forma rápida e eficiente.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** (React Framework)
+- **JavaScript/TypeScript**
+- **R** 
+- **CSS Modules** 
+## 💻 Funcionalidades
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Upload de planilhas 📂 (CSV, XLSX)
+- Geração automática de gráficos 📊
+- Suporte a diferentes tipos de gráficos: 
+  - Gráficos de barras 📈
+  - Gráficos de linhas 📉
+  - Gráficos de pizza 
+  - Gráficos personalizados 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📦 Como Executar
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Projeto_Visualizacao_Grafica_TS_R
+   ```
 
-## Learn More
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd Projeto_Visualizacao_Grafica_TS_R
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. Acesse `http://localhost:3000` no seu navegador 🌐.
 
-## Deploy on Vercel
+## Link
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+https://graphproject.vercel.app
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## ✨ Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests. 🙌
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE) 📜.
+
+---
+
+Feito com 📊 e muita criatividade! 🚀
+
